@@ -1,6 +1,6 @@
 package structural.adapter;
 
-public class DatabaseRunner {
+class DatabaseRunner {
     public static void main(String[] args) {
         Database database = new AdapterJavaToDatabase();
 

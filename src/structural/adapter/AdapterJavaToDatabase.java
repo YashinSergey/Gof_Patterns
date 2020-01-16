@@ -1,6 +1,6 @@
 package structural.adapter;
 
-public class AdapterJavaToDatabase extends JavaApplication implements Database {
+class AdapterJavaToDatabase extends JavaApplication implements Database {
 
     @Override
     public void insert() {

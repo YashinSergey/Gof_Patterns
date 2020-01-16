@@ -1,5 +1,5 @@
 package structural.bridge;
 
-public interface Developer {
+interface Developer {
     void writeCode();
 }
