@@ -3,7 +3,7 @@ package structural.composite;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Team {
+class Team {
 
     private List<Developer> developers = new ArrayList<>();
 

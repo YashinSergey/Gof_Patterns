@@ -1,6 +1,6 @@
 package structural.composite;
 
-public class Project {
+class Project {
     public static void main(String[] args) {
         Team team = new Team();
 

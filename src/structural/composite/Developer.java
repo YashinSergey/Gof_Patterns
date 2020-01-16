@@ -1,5 +1,5 @@
 package structural.composite;
 
-public interface Developer {
+interface Developer {
     public void writeCode();
 }
