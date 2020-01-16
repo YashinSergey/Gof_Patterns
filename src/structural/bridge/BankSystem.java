@@ -1,6 +1,6 @@
 package structural.bridge;
 
-public class BankSystem extends Program {
+class BankSystem extends Program {
 
     protected BankSystem(Developer developer) {
         super(developer);

@@ -1,6 +1,6 @@
 package structural.adapter;
 
-public class JavaApplication {
+class JavaApplication {
 
     public void saveObject() {
         System.out.println("saving object...");

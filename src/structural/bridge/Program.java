@@ -1,6 +1,6 @@
 package structural.bridge;
 
-public abstract class Program {
+abstract class Program {
 
     Developer developer;
 

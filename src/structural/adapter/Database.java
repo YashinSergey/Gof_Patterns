@@ -1,6 +1,6 @@
 package structural.adapter;
 
-public interface Database {
+interface Database {
 
     void insert();
     void update();
